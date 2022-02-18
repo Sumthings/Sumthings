@@ -1,3 +1,2 @@
-# Something.github.io-game               
-fun
- https://adelplayz.github.io/Something.github.io-game/
+# Particles.js-Example
+A simple example of particles made using [Particles.js](https://github.com/VincentGarreau/particles.js)
