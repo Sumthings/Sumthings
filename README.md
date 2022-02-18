@@ -1,3 +1,3 @@
 # Something.github.io-game               
 Credits: DreadTristan, AdelPlayz, 
-Game Page:
+Game Page: https://adelplayz.github.io/Something.github.io-game/
