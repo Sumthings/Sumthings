@@ -107,7 +107,8 @@ section img#car
     z-index: -1;
 }
 .gamebox:hover{
-    border: 7px solid rgb(78, 252, 3);
+border: 7px solid rgb(78, 252, 3);
+height: 300px;
 }
 
 .gamebox{
