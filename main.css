@@ -113,6 +113,12 @@ section img#car
     position: absolute;
     z-index: -1;
 }
+#Kart{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+}
 
 .gamebox:hover{
 border: 7px solid rgb(78, 252, 3);
