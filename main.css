@@ -125,6 +125,12 @@ section img#car
     position: absolute;
     z-index: -1;
 }
+#PrintShop{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+}
 
 .gamebox:hover{
 border: 7px solid rgb(78, 252, 3);
@@ -139,6 +145,10 @@ border: 7px solid rgb(78, 252, 3);
 cursor: pointer;
 }
 .gamebox4:hover{
+border: 7px solid rgb(78, 252, 3);
+cursor: pointer;
+}
+.gamebox5:hover{
 border: 7px solid rgb(78, 252, 3);
 cursor: pointer;
 }
@@ -187,6 +197,16 @@ cursor: pointer;
     border-radius: 50px;
     border: 4px solid rgb(9, 255, 0);
 }
+.gamebox5{
+    left: 50px;
+    top: 380px;
+    position: absolute;
+    z-index: 1;
+    width: 400px;
+    height: 300px;
+    border-radius: 50px;
+    border: 4px solid rgb(9, 255, 0);
+}
 
 
 .gamename{
@@ -224,6 +244,16 @@ cursor: pointer;
 .gamename4{
     left: 850px;
     top: 260px;
+    position: absolute;
+    z-index: 1;
+    width: 200px;
+    height: 20px;
+    color: #0fff00;
+    font-weight: 900;
+}
+.gamename5{
+    left: 200px;
+    top: 380px;
     position: absolute;
     z-index: 1;
     width: 200px;
