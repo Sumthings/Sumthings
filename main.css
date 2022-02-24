@@ -143,32 +143,6 @@ border: 5px solid rgb(78, 252, 3);
 cursor: pointer;
 box-shadow: 5px 10px rgba(255, 255, 255, 0);
 }
-.gamebox2:hover{
-border: 5px solid rgb(78, 252, 3);
-cursor: pointer;
-box-shadow: 5px 10px rgba(255, 255, 255, 0);
-}
-.gamebox3:hover{
-border: 5px solid rgb(78, 252, 3);
-cursor: pointer;
-box-shadow: 5px 10px rgba(255, 255, 255, 0);
-}
-.gamebox4:hover{
-border: 5px solid rgb(78, 252, 3);
-cursor: pointer;
-box-shadow: 5px 10px rgba(255, 255, 255, 0);
-}
-.gamebox5:hover{
-border: 5px solid rgb(78, 252, 3);
-cursor: pointer;
-box-shadow: 5px 10px rgba(255, 255, 255, 0);
-}
-.gamebox6:hover{
-border: 5px solid rgb(78, 252, 3);
-cursor: pointer;
-box-shadow: 5px 10px rgba(255, 255, 255, 0);
-}
-
 .gamebox{
     left: 50px;
     top: 90px;
@@ -179,68 +153,7 @@ box-shadow: 5px 10px rgba(255, 255, 255, 0);
     border-radius: 50px;
     border: 4px solid rgb(9, 255, 0);
     box-shadow: 5px 10px rgba(129, 129, 129, 0.76);
-
 }
-
-.gamebox2{
-    left: 300px;
-    top: 90px;
-    position: absolute;
-    z-index: 1;
-    width: 200px;
-    height: 200px;
-    border-radius: 50px;
-    border: 4px solid rgb(9, 255, 0);
-    box-shadow: 5px 10px rgba(129, 129, 129, 0.76);
-}
-
-.gamebox3{
-    left: 550px;
-    top: 90px;
-    position: absolute;
-    z-index: 1;
-    width: 200px;
-    height: 200px;
-    border-radius: 50px;
-    border: 4px solid rgb(9, 255, 0);
-    box-shadow: 5px 10px rgba(129, 129, 129, 0.76);
-}
-
-.gamebox4{
-    left: 800px;
-    top: 90px;
-    position: absolute;
-    z-index: 1;
-    width: 200px;
-    height: 200px;
-    border-radius: 50px;
-    border: 4px solid rgb(9, 255, 0);
-    box-shadow: 5px 10px rgba(129, 129, 129, 0.76);
-}
-.gamebox5{
-    left: 50px;
-    top: 335px;
-    position: absolute;
-    z-index: 1;
-    width: 400px;
-    height: 300px;
-    border-radius: 50px;
-    border: 4px solid rgb(9, 255, 0);
-    box-shadow: 5px 10px rgba(129, 129, 129, 0.76);
-}
-.gamebox6{
-    left: 500px;
-    top: 335px;
-    position: absolute;
-    z-index: 1;
-    width: 250px;
-    height: 200px;
-    border-radius: 50px;
-    border: 4px solid rgb(9, 255, 0);
-    box-shadow: 5px 10px rgba(129, 129, 129, 0.76);
-}
-
-
 .gamename{
     left: 100px;
     top: 260px;
@@ -251,58 +164,6 @@ box-shadow: 5px 10px rgba(255, 255, 255, 0);
     color: #0fff00;
     font-weight: 900;
     box-shadow: 10px;
-}
-.gamename2{
-    left: 350px;
-    top: 260px;
-    position: absolute;
-    z-index: 1;
-    width: 200px;
-    height: 20px;
-    color: #0fff00;
-    font-weight: 900;
-}
-
-.gamename3{
-    left: 600px;
-    top: 260px;
-    position: absolute;
-    z-index: 1;
-    width: 200px;
-    height: 20px;
-    color: #0fff00;
-    font-weight: 900;
-}
-
-.gamename4{
-    left: 850px;
-    top: 260px;
-    position: absolute;
-    z-index: 1;
-    width: 200px;
-    height: 20px;
-    color: #0fff00;
-    font-weight: 900;
-}
-.gamename5{
-    left: 200px;
-    top: 380px;
-    position: absolute;
-    z-index: 1;
-    width: 350px;
-    height: 20px;
-    color: #0fff00;
-    font-weight: 900;
-}
-.gamename6{
-    left: 200px;
-    top: 380px;
-    position: absolute;
-    z-index: 1;
-    width: 350px;
-    height: 20px;
-    color: #0fff00;
-    font-weight: 900;
 }
 
 
