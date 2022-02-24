@@ -139,28 +139,34 @@ section img#car
 }
 
 .gamebox:hover{
-border: 7px solid rgb(78, 252, 3);
+border: 5px solid rgb(78, 252, 3);
 cursor: pointer;
+box-shadow: 5px 10px rgba(255, 255, 255, 0);
 }
 .gamebox2:hover{
-border: 7px solid rgb(78, 252, 3);
+border: 5px solid rgb(78, 252, 3);
 cursor: pointer;
+box-shadow: 5px 10px rgba(255, 255, 255, 0);
 }
 .gamebox3:hover{
-border: 7px solid rgb(78, 252, 3);
+border: 5px solid rgb(78, 252, 3);
 cursor: pointer;
+box-shadow: 5px 10px rgba(255, 255, 255, 0);
 }
 .gamebox4:hover{
-border: 7px solid rgb(78, 252, 3);
+border: 5px solid rgb(78, 252, 3);
 cursor: pointer;
+box-shadow: 5px 10px rgba(255, 255, 255, 0);
 }
 .gamebox5:hover{
-border: 7px solid rgb(78, 252, 3);
+border: 5px solid rgb(78, 252, 3);
 cursor: pointer;
+box-shadow: 5px 10px rgba(255, 255, 255, 0);
 }
 .gamebox6:hover{
-border: 7px solid rgb(78, 252, 3);
+border: 5px solid rgb(78, 252, 3);
 cursor: pointer;
+box-shadow: 5px 10px rgba(255, 255, 255, 0);
 }
 
 .gamebox{
