@@ -146,22 +146,27 @@ box-shadow: 5px 5px rgba(129, 129, 129, 0.76);
 .gamebox2:hover{
 border: 7px solid rgb(78, 252, 3);
 cursor: pointer;
+box-shadow: 5px 5px rgba(129, 129, 129, 0.76);
 }
 .gamebox3:hover{
 border: 7px solid rgb(78, 252, 3);
 cursor: pointer;
+box-shadow: 5px 5px rgba(129, 129, 129, 0.76);
 }
 .gamebox4:hover{
 border: 7px solid rgb(78, 252, 3);
 cursor: pointer;
+box-shadow: 5px 5px rgba(129, 129, 129, 0.76);
 }
 .gamebox5:hover{
 border: 7px solid rgb(78, 252, 3);
 cursor: pointer;
+box-shadow: 5px 5px rgba(129, 129, 129, 0.76);
 }
 .gamebox6:hover{
 border: 7px solid rgb(78, 252, 3);
 cursor: pointer;
+box-shadow: 5px 5px rgba(129, 129, 129, 0.76);
 }
 
 .gamebox{
