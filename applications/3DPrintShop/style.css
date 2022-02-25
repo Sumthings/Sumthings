@@ -1,6 +1,6 @@
 body {
     min-height: 100vh;
-    background: radial-gradient(#daa520, #228B22);
+    background: linear-gradient(#101227, #00008B);
 }
     @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap');
 *
@@ -99,10 +99,7 @@ section img#car
     font-size: 1.5em;
     z-index: 9;
     transform: translateY(100px)
-}
-
- 
-
+	    }
 #Item1{
     width: 100%;
     height: 100%;
@@ -110,46 +107,42 @@ section img#car
     z-index: -1;
 }
 
-#Blank{
+#{
     width: 100%;
     height: 100%;
     position: absolute;
     z-index: -1;
 }
-#Blank{
+#{
     width: 100%;
     height: 100%;
     position: absolute;
     z-index: -1;
 }
-#Blank{
+#{
     width: 100%;
     height: 100%;
     position: absolute;
     z-index: -1;
 }
-
-
+#{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+}
+#{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+}
 
 .Itembox:hover{
-border: 7px solid rgb(78, 252, 3);
+border: 5px solid rgb(78, 252, 3);
 cursor: pointer;
+box-shadow: 5px 10px rgba(255, 255, 255, 0);
 }
-.Itembox2:hover{
-border: 7px solid rgb(78, 252, 3);
-cursor: pointer;
-}
-.Itembox3:hover{
-border: 7px solid rgb(78, 252, 3);
-cursor: pointer;
-}
-.Itembox4:hover{
-border: 7px solid rgb(78, 252, 3);
-cursor: pointer;
-}
-
-
-
 .Itembox{
     left: 50px;
     top: 90px;
@@ -159,44 +152,9 @@ cursor: pointer;
     height: 200px;
     border-radius: 50px;
     border: 4px solid rgb(9, 255, 0);
-
+    box-shadow: 5px 10px rgba(129, 129, 129, 0.76);
 }
-
-.Itembox2{
-    left: 300px;
-    top: 90px;
-    position: absolute;
-    z-index: 1;
-    width: 200px;
-    height: 200px;
-    border-radius: 50px;
-    border: 4px solid rgb(9, 255, 0);
-}
-
-.Itembox3{
-    left: 550px;
-    top: 90px;
-    position: absolute;
-    z-index: 1;
-    width: 200px;
-    height: 200px;
-    border-radius: 50px;
-    border: 4px solid rgb(9, 255, 0);
-}
-
-.Itembox4{
-    left: 800px;
-    top: 90px;
-    position: absolute;
-    z-index: 1;
-    width: 200px;
-    height: 200px;
-    border-radius: 50px;
-    border: 4px solid rgb(9, 255, 0);
-}
-
-
-.gamename{
+.Itemname{
     left: 100px;
     top: 260px;
     position: absolute;
@@ -205,36 +163,5 @@ cursor: pointer;
     height: 20px;
     color: #0fff00;
     font-weight: 900;
-}
-.gamename2{
-    left: 350px;
-    top: 260px;
-    position: absolute;
-    z-index: 1;
-    width: 200px;
-    height: 20px;
-    color: #0fff00;
-    font-weight: 900;
-}
-
-.Itemname3{
-    left: 600px;
-    top: 260px;
-    position: absolute;
-    z-index: 1;
-    width: 200px;
-    height: 20px;
-    color: #0fff00;
-    font-weight: 900;
-}
-
-.Itemname4{
-    left: 850px;
-    top: 260px;
-    position: absolute;
-    z-index: 1;
-    width: 200px;
-    height: 20px;
-    color: #0fff00;
-    font-weight: 900;
+    box-shadow: 10px;
 }
