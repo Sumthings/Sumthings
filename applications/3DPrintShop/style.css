@@ -102,8 +102,19 @@ section img#car
 	    }
 #heading{
     font-family: sans-serif;
+    left: 500px;
+    top: 30px;
+    font-weight: 800;
+    width: 400px;
+    height: 50px;
+    color: #fff;
+    position: absolute;
+}
+
+#Fidgets{
+    font-family: sans-serif;
     left: 100px;
-    top: 490px;
+    top: 400px;
     font-weight: 800;
     width: 400px;
     height: 50px;
