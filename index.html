@@ -10,7 +10,25 @@
     <style>
     </style>
 <body>
-	<button class="trigger">Click here to trigger the modal!</button>
+	<script> const modal = document.querySelector(".modal");
+const trigger = document.querySelector(".trigger");
+const closeButton = document.querySelector(".close-button");
+
+function toggleModal() {
+    modal.classList.toggle("show-modal");
+}
+
+function windowOnClick(event) {
+    if (event.target === modal) {
+        toggleModal();
+    }
+}
+
+trigger.addEventListener("click", toggleModal);
+closeButton.addEventListener("click", toggleModal);
+window.addEventListener("click", windowOnClick);
+	</script>
+		<button class="trigger">Click here to trigger the modal!</button>
 <div class="modal">
     <div class="modal-content">
         <span class="close-button">&times;</span>
